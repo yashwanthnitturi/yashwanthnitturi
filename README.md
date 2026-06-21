@@ -21,17 +21,7 @@ Passionate about Cloud Infrastructure, Automation, CI/CD, Containerization, Kube
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge)
-![Infrastructure as Code](https://img.shields.io/badge/IaC-Terraform-purple?style=for-the-badge)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanthnitturi&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthnitturi&layout=compact&theme=github_dark
-)
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashwanthnitturi&theme=github-dark)
+![Observability](https://img.shields.io/badge/Observability-Monitoring-orange?style=for-the-badge)
 
 ### 🚀 Tech Stack
 
