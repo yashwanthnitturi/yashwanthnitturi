@@ -13,6 +13,9 @@ Passionate about Cloud Infrastructure, Automation, CI/CD, Containerization, Kube
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge)
+![IaC](https://img.shields.io/badge/Infrastructure_as_Code-Terraform-purple?style=for-the-badge)
+![EKS](https://img.shields.io/badge/AWS-EKS-orange?style=for-the-badge&logo=amazonaws)
 
 ## 📊 GitHub Stats
 
