@@ -1,6 +1,6 @@
 # Hi, I'm Yashwanth Nitturi 👋
 
-## DevOps Engineer
+## DevOps Engineer | AWS | Terraform | Jenkins | Docker | Kubernetes
 
 Passionate about Cloud Infrastructure, Automation, CI/CD, Containerization, Kubernetes, and Observability.
 
