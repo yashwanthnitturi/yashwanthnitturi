@@ -47,7 +47,7 @@ LinkedIn:
 www.linkedin.com/in/yashwanth-nitturi-b21747393
 
 GitHub:
-github.com/yashwanthnitturi## Hi there 👋
+github.com/yashwanthnitturi## 
 
 <!--
 **yashwanthnitturi/yashwanthnitturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
