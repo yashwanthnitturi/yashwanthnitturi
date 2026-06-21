@@ -3,6 +3,11 @@
 ## DevOps Engineer | AWS | Terraform | Jenkins | Docker | Kubernetes
 
 Passionate about Cloud Infrastructure, Automation, CI/CD, Containerization, Kubernetes, and Observability.
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanthnitturi&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthnitturi&layout=compact&theme=github_dark)
 
 ### 🚀 Tech Stack
 
