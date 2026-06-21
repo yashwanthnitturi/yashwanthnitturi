@@ -65,7 +65,7 @@ Passionate about Cloud Infrastructure, Automation, CI/CD, Containerization, Kube
 ### 📫 Connect with Me
 
 LinkedIn:
-www.linkedin.com/in/yashwanth-nitturi-b21747393
+www.linkedin.com/in/yashwanth-nitturi
 
 GitHub:
 https://github.com/yashwanthnitturi
