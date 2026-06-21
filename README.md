@@ -3,6 +3,17 @@
 ## DevOps Engineer | AWS | Terraform | Jenkins | Docker | Kubernetes
 
 Passionate about Cloud Infrastructure, Automation, CI/CD, Containerization, Kubernetes, and Observability.
+
+### 🛠️ Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwanthnitturi&show_icons=true&theme=github_dark)
@@ -21,6 +32,8 @@ Passionate about Cloud Infrastructure, Automation, CI/CD, Containerization, Kube
 - Prometheus
 - Grafana
 - Nginx
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashwanthnitturi&color=blue)
 
 ### 📂 Projects
 
